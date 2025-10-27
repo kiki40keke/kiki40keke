@@ -44,10 +44,10 @@
 💼 **LinkedIn:** [linkedin.com/in/kelly-kensky-laguerre](https://www.linkedin.com/in/kelly-kensky-laguerre/)
 
 ---
-
 ### 📊 GitHub Stats
-![Kelly's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiki40keke&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiki40keke&layout=compact&theme=tokyonight)
+
+![Kelly's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiki40keke&show_icons=true&theme=tokyonight&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiki40keke&layout=compact&theme=tokyonight&count_private=true)
 
 ---
 
